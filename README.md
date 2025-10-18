@@ -19,7 +19,6 @@ A simple Asteroids-style arcade game built to practice game loops, collision det
 - Python 3.10+
 - pip
 - pygame
-- uv
 
 ### Installation
 ```bash
@@ -38,3 +37,4 @@ pip install -r requirements.txt
 
 ### Acknowledgments
 [Boot.dev](https://www.boot.dev/u/merthiz) project inspiration
+
